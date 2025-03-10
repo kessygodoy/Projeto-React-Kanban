@@ -1,0 +1,40 @@
+{
+    "tasks": [
+      {
+        "id": 1,
+        "title": "Complete project setup",
+        "description": "Initialize the project repository and install dependencies",
+        "status": "todo",
+        "priority": "high"
+      },
+      {
+        "id": 2,
+        "title": "Design homepage layout",
+        "description": "Create wireframe and basic design for the homepage",
+        "status": "doing",
+        "priority": "medium"
+      },
+      {
+        "id": 3,
+        "title": "Implement login feature",
+        "description": "Develop and integrate the user authentication system",
+        "status": "todo",
+        "priority": "high"
+      },
+      {
+        "id": 4,
+        "title": "Write unit tests",
+        "description": "Create unit tests for the components and functions",
+        "status": "done",
+        "priority": "low"
+      },
+      {
+        "id": 5,
+        "title": "Refactor codebase",
+        "description": "Improve code quality and apply coding standards",
+        "status": "doing",
+        "priority": "medium"
+      }
+    ]
+  }
+  
